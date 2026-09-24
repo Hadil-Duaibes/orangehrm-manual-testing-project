@@ -86,6 +86,11 @@ The testing process included:
 
 Automation testing using **Cypress** will be added as a future phase of this project.
 
+## Test Cases Files
+
+- [View Test Cases PDF](./OrangeHRM-Manual-Testing-Portfolio.pdf)
+- [Download Excel Test Cases](./OrangeHRM-Manual-Testing-Portfolio.xlsx)
+
 ---
 
 **QA Portfolio Project — OrangeHRM Manual Testing**
