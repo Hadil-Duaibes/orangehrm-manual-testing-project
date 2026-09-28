@@ -50,6 +50,15 @@ Examples include:
 * Loading behavior after navigating back from an employee profile
 * Validation and error-message behavior
 
+## 📈 Test Execution Summary
+
+- **Total Test Cases:** 42
+- **Test Cases Passed:** 40
+- **Test Cases Failed:** 2
+- **Defects Identified:** 6
+
+Testing results were recorded during execution, and identified defects were documented with reproduction steps, expected results, actual results, severity, priority, and status.
+
 ## 🛠️ Tools Used
 
 * **OrangeHRM** – Application under test
@@ -87,6 +96,8 @@ The testing process included:
 Automation testing using **Cypress** will be added as a future phase of this project.
 
 ## Test Cases Files
+
+[View Test Cases PDF](https://github.com/Hadil-Duaibes/orangehrm-manual-testing-project/blob/main/OrangeHRM-Manual-Testing-Portfolio.pdf)
 
 - [View Test Cases PDF](https://github.com/Hadil-Duaibes/orangehrm-manual-testing-project/raw/refs/heads/main/OrangeHRM-Manual-Testing-Portfolio.pdf)
 - [Download Excel Test Cases](https://github.com/Hadil-Duaibes/orangehrm-manual-testing-project/blob/main/OrangeHRM-Manual-Testing-Portfolio.xlsx)
