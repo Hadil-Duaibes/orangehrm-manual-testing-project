@@ -91,6 +91,10 @@ Automation testing using **Cypress** will be added as a future phase of this pro
 - [View Test Cases PDF](./OrangeHRM-Manual-Testing-Portfolio.pdf)
 - [Download Excel Test Cases](./OrangeHRM-Manual-Testing-Portfolio.xlsx)
 
+
+## Bug Reports
+
+- [View Bug Reports PDF](https://github.com/Hadil-Duaibes/orangehrm-manual-testing-project/blob/main/OrangeHRM-Bug-Reports.pdf)
 ---
 
 **QA Portfolio Project — OrangeHRM Manual Testing**
